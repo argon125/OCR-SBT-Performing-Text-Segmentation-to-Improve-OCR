@@ -13,6 +13,11 @@ Proposed approach to perform text segmentation and OCR.
 ![image](https://github.com/argon125/OCR_SBT-Performing-Text-Segmentation-to-Improve-OCR/assets/64146402/7b86b313-359a-4885-95a7-0e950b628097)
 Predictions obtained by the UNet3+ architecture on super-resolution input text image
 
+Link to the Dataset: https://drive.google.com/drive/folders/1aOPVgGTuuCZFeWKTROLwXjovRfi254S5?usp=sharing
+Model weights can be made available on request: (mail to: arrun.sivasubramanian@gmail.com)
+
+(Input images for training images are select images taken from the SyntheTiger repository. The masks were generated using colour k-means clustering)
+
 ### Authors: Arrun Sivasubramanian(1), Sheel Shah Rikesh(1), Akash Narayanaswamy(1,2), Rindhya C(1,2), Barathi Ganesh HB(1)
 
 ### Affiliation:
