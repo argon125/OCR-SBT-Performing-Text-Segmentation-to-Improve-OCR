@@ -13,9 +13,9 @@ Proposed approach to perform text segmentation and OCR.
 ![image](https://github.com/argon125/OCR_SBT-Performing-Text-Segmentation-to-Improve-OCR/assets/64146402/7b86b313-359a-4885-95a7-0e950b628097)
 Predictions obtained by the UNet3+ architecture on super-resolution input text image
 
-Authors: Arrun Sivasubramanian(1), Sheel Shah Rikesh(1), Akash Narayanaswamy(1,2), Rindhya C(1,2), Barathi Ganesh HB(1)
+### Authors: Arrun Sivasubramanian(1), Sheel Shah Rikesh(1), Akash Narayanaswamy(1,2), Rindhya C(1,2), Barathi Ganesh HB(1)
 
-Affiliation:
+### Affiliation:
 
-(1) Resilience Business Grids LLP, Coimbatore, India.
-(2) Department of CSE, Sri Ramakrishna Engineering College, Coimbatore, India.
+#### (1) Resilience Business Grids LLP, Coimbatore, India.
+#### (2) Department of CSE, Sri Ramakrishna Engineering College, Coimbatore, India.
