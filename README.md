@@ -14,6 +14,7 @@ Proposed approach to perform text segmentation and OCR.
 Predictions obtained by the UNet3+ architecture on super-resolution input text image
 
 Link to the Dataset: https://drive.google.com/drive/folders/1aOPVgGTuuCZFeWKTROLwXjovRfi254S5?usp=sharing
+
 Model weights can be made available on request: (mail to: arrun.sivasubramanian@gmail.com)
 
 (Input images for training images are select images taken from the SyntheTiger repository. The masks were generated using colour k-means clustering)
