@@ -13,7 +13,8 @@ Proposed approach to perform text segmentation and OCR.
 ![image](https://github.com/argon125/OCR_SBT-Performing-Text-Segmentation-to-Improve-OCR/assets/64146402/7b86b313-359a-4885-95a7-0e950b628097)
 Predictions obtained by the UNet3+ architecture on super-resolution input text image
 
-Link to Parer: https://link.springer.com/chapter/10.1007/978-3-031-75164-6_5
+Link to Paper: https://link.springer.com/chapter/10.1007/978-3-031-75164-6_5
+
 Link to the Dataset: https://drive.google.com/drive/folders/1aOPVgGTuuCZFeWKTROLwXjovRfi254S5?usp=sharing
 
 Model weights can be made available on request: (mail to: arrun.sivasubramanian@gmail.com)
